@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.918in" height="0.739in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 918 739"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="725" font-variant="normal" style="fill-rule:nonzero" font-weight="800">
+	<font-face 
+		font-family="Open Sans ExtraBold">
+		<font-face-src>
+			<font-face-name name="Open Sans ExtraBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="J" horiz-adv-x="351" d="M20.9987 -223.998c-35.1643,0 -68.5005,3.49645 -100.163,10.3295l0 149.833c10.4993,-1.83314 21.4982,-3.99594 33.3312,-6.4984 11.6682,-2.49747 24.3353,-3.66628 38.0014,-3.66628 31.9975,0 54.6645,9.66519 68.3306,28.8307 13.6661,19.1705 20.4992,52.0022 20.4992,98.6699l0 660.5 193.833 0 0 -644.001c0,-96.6669 -21.1635,-169.833 -63.4956,-219.497 -42.1672,-49.6696 -105.668,-74.4994 -190.337,-74.4994z"/>
+   <glyph unicode="M" horiz-adv-x="966" d="M388.331 0l-146.167 514.333 -4.3306 0c6.83306,-87.666 10.1647,-155.667 10.1647,-204.168l0 -310.165 -170.832 0 0 714 256.834 0 148.999 -507 4.00094 0 146.002 507 257.329 0 0 -714 -177.33 0 0 313.002c0,16.3334 0.329665,34.3302 0.834153,54.3299 0.499493,19.8349 2.6623,68.5005 6.4984,146.002l-4.3356 0 -144.164 -513.334 -183.504 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Open Sans ExtraBold";font-variant:normal;font-weight:800;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#855FA6}
+    .fnt0 {font-weight:800;font-size:788.2px;font-family:'Open Sans ExtraBold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 -520.752 193.61)">
+   <text x="459" y="369.5"  class="fil0 fnt0">MJ</text>
+  </g>
+ </g>
+</svg>
